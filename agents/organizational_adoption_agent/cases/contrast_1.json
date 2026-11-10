@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Industrial Digital Twin technology combined with Industrial IoT / equipment-condition data.",
+  "intended_application": "A digital-twin and condition-monitoring system for predictive maintenance of critical rotating equipment including pumps, compressors, and motors.",
+  "organization": "An older mid-sized petrochemical facility.",
+  "industry_sector": "Petrochemical / energy.",
+  "business_need": "Reduce unplanned equipment downtime, improve maintenance planning, identify developing equipment problems earlier, and use maintenance resources more effectively.",
+  "users_stakeholders": "Maintenance technicians, reliability engineers, operations personnel, maintenance/process engineers, IT, OT/cybersecurity teams, plant leadership, asset managers, and technology/data teams.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "Inconsistent sensor coverage; fragmented equipment-condition data; poor or incomplete maintenance history; significant legacy-system limitations; little advanced-analytics experience; limited digital-twin expertise; tight capital resources; limited implementation staffing; unclear ownership across maintenance, reliability engineering, IT, OT, and operations; limited formal change-management capability; technicians primarily accustomed to preventive and reactive maintenance.",
+  "risk_consequence_context": "Incorrect predictions, poor model configuration, unreliable sensor data, or inappropriate maintenance recommendations could contribute to unnecessary maintenance, missed equipment failures, equipment damage, downtime, production losses, or safety consequences. Qualified engineering and maintenance personnel retain decision authority.",
+  "management_question": "Is this organization ready to implement and sustain a digital-twin-based predictive-maintenance capability, what are its most consequential readiness gaps, and what must change before broader implementation?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Organizational-profile contrast: technology, application, sector, equipment scope, business need, stakeholder functions, adoption posture, risk context, management question, and time horizon are held constant. Stakeholder functions do not imply dedicated staff or assigned authority. Executive sponsorship, ongoing operating budget, specific authority assignments, cybersecurity/validation effectiveness, and actual technician trust are unspecified. Traditional practices do not establish resistance. No readiness conclusion or technology-maturity downgrade is stipulated. Case facts are supplied scenario assumptions; no specific company or jurisdiction is supplied."
+}

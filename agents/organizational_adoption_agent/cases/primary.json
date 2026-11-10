@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Industrial Digital Twin technology combined with Industrial IoT / equipment-condition data.",
+  "intended_application": "A digital-twin and condition-monitoring system for predictive maintenance of critical rotating equipment including pumps, compressors, and motors.",
+  "organization": "A large petrochemical or energy company operating complex industrial facilities.",
+  "industry_sector": "Petrochemical / energy.",
+  "business_need": "Reduce unplanned equipment downtime, improve maintenance planning, identify developing equipment problems earlier, and use maintenance resources more effectively.",
+  "users_stakeholders": "Maintenance technicians, reliability engineers, operations personnel, maintenance/process engineers, IT, OT/cybersecurity teams, plant leadership, asset managers, and technology/data teams.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "Supplied strengths: extensive equipment sensors; substantial historian data; experienced reliability and maintenance engineers; established CMMS/EAM environment; internal analytics capability; executive sponsorship; access to implementation capital. Supplied gaps/challenges: data quality; integration across legacy systems; consistency of equipment data; technician training; workflow redesign; digital-twin governance; cross-functional ownership; long-term operating responsibility.",
+  "risk_consequence_context": "Incorrect predictions, poor model configuration, unreliable sensor data, or inappropriate maintenance recommendations could contribute to unnecessary maintenance, missed equipment failures, equipment damage, downtime, production losses, or safety consequences. Qualified engineering and maintenance personnel retain decision authority.",
+  "management_question": "Is this organization ready to implement and sustain a digital-twin-based predictive-maintenance capability, what are its most consequential readiness gaps, and what must change before broader implementation?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Case facts are supplied scenario assumptions, not verified company facts. No specific company or jurisdiction is supplied. Ongoing operating budget, allocated training capacity, assigned operating owners, detailed decision rights, measured data quality, validated integration, and effectiveness of cybersecurity/validation controls are not specified. Request evidence rather than assume these factors. No readiness conclusion is stipulated."
+}

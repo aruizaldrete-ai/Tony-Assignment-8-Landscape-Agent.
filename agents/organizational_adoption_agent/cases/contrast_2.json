@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Industrial Digital Twin technology combined with Industrial IoT / equipment-condition data.",
+  "intended_application": "A digital-twin and condition-monitoring system for predictive maintenance of critical rotating equipment including pumps, compressors, and motors.",
+  "organization": "A large petrochemical or energy company with strong technical infrastructure but weak organizational arrangements for sustained operation.",
+  "industry_sector": "Petrochemical / energy.",
+  "business_need": "Reduce unplanned equipment downtime, improve maintenance planning, identify developing equipment problems earlier, and use maintenance resources more effectively.",
+  "users_stakeholders": "Maintenance technicians, reliability engineers, operations personnel, maintenance/process engineers, IT, OT/cybersecurity teams, plant leadership, asset managers, and technology/data teams.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "Strong equipment sensors; good historian data; strong analytics capability; adequate funding; modern infrastructure. However: weak workforce trust; unclear long-term operating ownership; poor cross-functional governance; limited change-management capability; no clear decision authority for resolving maintenance recommendations; unclear accountability for maintaining the digital twin after launch.",
+  "risk_consequence_context": "Incorrect predictions, poor model configuration, unreliable sensor data, or inappropriate maintenance recommendations could contribute to unnecessary maintenance, missed equipment failures, equipment damage, downtime, production losses, or safety consequences. Qualified engineering and maintenance personnel retain decision authority.",
+  "management_question": "Is this organization ready to implement and sustain a digital-twin-based predictive-maintenance capability, what are its most consequential readiness gaps, and what must change before broader implementation?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Organizational-profile contrast: the technology, predictive-maintenance application, sector, equipment scope, business need, stakeholder functions, adoption posture, risk consequences, management question, and time horizon remain constant. Qualified personnel retain human decision authority, but assignment of final authority for resolving conflicting maintenance recommendations is unclear. Adequate funding does not identify approved allocations or staffing. Detailed integration, validation, security controls, training capacity, and named owners are unspecified. Strong infrastructure must not predetermine readiness. Case facts are supplied scenario assumptions; no specific company or jurisdiction is supplied."
+}
