@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Autonomous Mobile Robots (AMRs).",
+  "intended_application": "Autonomous indoor movement of materials between warehouse storage, staging, and production-support locations.",
+  "organization": "Large industrial manufacturing organization with high-throughput warehouse operations.",
+  "industry_sector": "Industrial manufacturing / warehousing / supply chain.",
+  "business_need": "Reduce repetitive transport, improve material flow, reduce non-value-added travel, improve throughput consistency, and better utilize warehouse labor.",
+  "users_stakeholders": "Warehouse operators, material handlers, industrial engineers, operations managers, supply-chain teams, maintenance teams, IT/OT, safety personnel, finance, and plant leadership.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "High recurring material-movement volume; standardized indoor routes; recurring transport tasks; existing warehouse-management / enterprise systems; ability to invest in automation; significant material-handling activity; integration, safety, maintenance, interoperability, workforce, and support requirements.",
+  "risk_consequence_context": "Poor technology selection or integration could create congestion, workflow disruption, downtime, safety issues, maintenance burden, stranded investment, vendor dependence, or failure to achieve expected operational value.",
+  "management_question": "Where do AMRs currently sit relative to manual handling, forklifts, conveyors, AGVs, and other material-movement alternatives for this application, and what market, technology, standards, ecosystem, cost, or performance signals should management monitor over the next 12–24 months?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Supplied scenario assumptions, not independently verified company facts. No specific company, jurisdiction, vendor, product, budget, measured performance, labor rate, equipment load envelope, or system version is supplied. Do not infer these facts or preselect an alternative. Assess current evidence as of the actual run date."
+}

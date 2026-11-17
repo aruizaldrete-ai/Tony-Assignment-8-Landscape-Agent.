@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Autonomous Mobile Robots (AMRs).",
+  "intended_application": "Movement of maintenance parts, tools, and equipment within an industrial-facility maintenance and spare-parts warehouse.",
+  "organization": "Petrochemical or energy company operating an industrial-facility maintenance warehouse.",
+  "industry_sector": "Petrochemical / energy / maintenance logistics.",
+  "business_need": "Improve movement of maintenance parts, tools, and equipment, reduce unnecessary manual transport and travel, and support reliable plant-maintenance logistics.",
+  "users_stakeholders": "Maintenance warehouse operators, material handlers, maintenance and reliability teams, industrial engineers, operations managers, supply-chain teams, IT/OT, safety personnel, finance, and plant leadership.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "Lower and less predictable movement volume; more irregular routes; wider variation in load size and weight; some specialized or oversized loads; tighter industrial safety requirements; legacy warehouse / maintenance systems; potentially lower AMR utilization; different labor and automation economics; greater importance of industrial integration and operating reliability.",
+  "risk_consequence_context": "Poor technology selection or integration could create congestion, workflow disruption, downtime, safety issues, maintenance burden, stranded investment, vendor dependence, or failure to achieve expected operational value.",
+  "management_question": "Where do AMRs currently sit relative to manual handling, forklifts, pallet jacks, conveyors, AGVs, and other alternatives for irregular maintenance-parts movement, and which economic, load-handling, integration, reliability, safety, standards, and vendor signals should this facility monitor over the next 12–24 months?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Organizational/application contrast with AMR technology, moderate/fast-follower posture, and 12–24 month horizon held constant. Lower utilization is a possibility, not a measured fact. No company, jurisdiction, hazardous-area classification, load specifications, labor rates, system versions, vendor, budget, or performance measurements are supplied. Tighter industrial safety requirements do not establish explosive-atmosphere exposure. Do not preselect the strongest alternative or invent local facts."
+}

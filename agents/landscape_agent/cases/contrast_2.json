@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Autonomous Mobile Robots (AMRs).",
+  "intended_application": "Autonomous indoor material movement supporting storage, staging, and fulfillment flows in an e-commerce fulfillment center.",
+  "organization": "An e-commerce fulfillment organization operating an extremely high-throughput fulfillment center.",
+  "industry_sector": "E-commerce fulfillment / warehousing / supply chain.",
+  "business_need": "Support extremely high fulfillment throughput, reduce repetitive labor-intensive transport and travel, and improve material-flow consistency and use of warehouse labor.",
+  "users_stakeholders": "Warehouse operators, material handlers, industrial engineers, operations managers, supply-chain teams, maintenance teams, IT/OT, safety personnel, finance, and plant leadership.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "Extremely high throughput; high labor intensity; large fleet potential; sophisticated WMS/WES infrastructure; high automation maturity; strong fleet-orchestration needs; scalability and labor economics are important. Integration, safety, maintenance, interoperability, workforce, and support requirements remain relevant.",
+  "risk_consequence_context": "Poor technology selection or integration could create congestion, workflow disruption, downtime, safety issues, maintenance burden, stranded investment, vendor dependence, or failure to achieve expected operational value.",
+  "management_question": "Where do AMRs sit relative to relevant conventional and automated material-handling alternatives for high-volume e-commerce fulfillment, and which fleet-orchestration, interoperability, scalability, labor-economics, vendor-ecosystem, and reliability-at-scale signals should management monitor over the next 12–24 months?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": "Optional application/organization contrast. AMR technology, moderate/fast-follower posture, and time horizon remain constant. Large fleet potential is not evidence of an installed fleet or measured scalability. No company, jurisdiction, measured throughput, fleet size, vendor, system version, load profile, labor rate, or ROI is supplied. Do not preselect the landscape position."
+}
